@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: catatan | TRIDI ZONE]]></title>
+  <link href="http://tridi.github.com//categories/catatan/atom.xml" rel="self"/>
+  <link href="http://tridi.github.com/"/>
+  <updated>2012-09-18T00:01:13+07:00</updated>
+  <id>http://tridi.github.com/</id>
+  <author>
+    <name><![CDATA[tridi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[pertama]]></title>
+    <link href="http://tridi.github.com/pertama.html"/>
+    <updated>2012-09-17T23:32:00+07:00</updated>
+    <id>http://tridi.github.com/pertama</id>
+    <content type="html"><![CDATA[<p>bismillah</p>
+]]></content>
+  </entry>
+  
+</feed>
